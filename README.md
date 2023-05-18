@@ -1,4 +1,4 @@
-# pass-generater
+# pass-generator
 
 パスワードを生成してテキストファイルに書き出す。
 
